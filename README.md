@@ -1,5 +1,5 @@
 # ggplot2
-code and plot of each chapter(2-10) in ggplot2 R
+##code and plot of each chapter(2-10) in ggplot2 R
 
 2 Getting started with qplot  
 
@@ -19,7 +19,7 @@ code and plot of each chapter(2-10) in ggplot2 R
 
 10 Reducing duplication
 
-How to see that:
+##How to see that:
 
 1.Go to this page: http://htmlpreview.github.io/?https://github.com/wzxiong/ggplot2/blob/master/chpater10%20reducing%20duplication.html
 
