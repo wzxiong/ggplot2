@@ -21,6 +21,8 @@
 
 ##How to see that:
 
-1.Go to this page: http://htmlpreview.github.io/?https://github.com/wzxiong/ggplot2/blob/master/chpater10%20reducing%20duplication.html
+9.for chapter 10 Go to this page: http://htmlpreview.github.io/?https://github.com/wzxiong/ggplot2/blob/master/chapter9_manipulating_data.html
 
-2.If the first tip doesn't work, just click "Clone or download" on the upright corner, choose "Download Zip". It won't be large and you can open the HTML file with your web browser.
+10.for chapter 10 Go to this page: http://htmlpreview.github.io/?https://github.com/wzxiong/ggplot2/blob/master/chpater10%20reducing%20duplication.html
+
+11.If the first tip doesn't work, just click "Clone or download" on the upright corner, choose "Download Zip". It won't be large and you can open the HTML file with your web browser.
